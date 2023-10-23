@@ -1,1 +1,2 @@
-Projeto proposto pela Digital Innovation One em parceria com a Santander no programa de formação em Ciências de Dados. Diante da dificuldade em submeter o projeto na plataforma online da Power BI, realizei o upload no One Drive para conseguir submeter o projeto. O projeto consiste em um relatório sobre vendas no Power BI. 
+Projeto proposto pela Digital Innovation One em parceria com a Santander no programa de formação em Ciências de Dados. Diante da dificuldade em submeter o projeto na plataforma online da Power BI, realizei o upload no One Drive e GitHub para conseguir submeter o projeto. O projeto consiste em um relatório sobre vendas no Power BI. 
+Link One Drive: https://1drv.ms/f/s!As14r4EKzO54gYkVxvyufn1RnCNV_w?e=1Oqai1 
